@@ -28,5 +28,7 @@ public class Assignment_0 {
 
         System.out.println("\nThis is my first program!");
         System.out.println("My name is: " + first + " " + last);
+        
+        System.out.print("GITHUBCHANGE");
     }
 }
