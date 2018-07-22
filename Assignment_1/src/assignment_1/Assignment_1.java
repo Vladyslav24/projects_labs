@@ -38,6 +38,7 @@ public class Assignment_1 {
         }//end while
     }//end main
 
+    
     //printToFile neatly prints info to txt file using prinf method
     public static void printToFile(double rateOfPay, double totalHours,
             double straightTime, double overTime, double grossPay,
