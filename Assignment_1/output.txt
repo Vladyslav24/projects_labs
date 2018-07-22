@@ -1,0 +1,80 @@
+Rate of Pay:              $5.00
+Total Hours Worked:       45
+Straight Time:            40
+Over Time:                5
+Gross Pay:                $237.50
+Tax:                      $47.50
+Net Pay:                  $190.00
+
+Rate of Pay:              $10.50
+Total Hours Worked:       45
+Straight Time:            45
+Over Time:                0
+Gross Pay:                $472.50
+Tax:                      $94.50
+Net Pay:                  $378.00
+
+Rate of Pay:              $5.00
+Total Hours Worked:       35
+Straight Time:            40
+Over Time:                0
+Gross Pay:                $175.00
+Tax:                      $35.00
+Net Pay:                  $140.00
+
+Rate of Pay:              $10.50
+Total Hours Worked:       50
+Straight Time:            40
+Over Time:                10
+Gross Pay:                $577.50
+Tax:                      $115.50
+Net Pay:                  $462.00
+
+Rate of Pay:              $15.00
+Total Hours Worked:       15
+Straight Time:            35
+Over Time:                0
+Gross Pay:                $225.00
+Tax:                      $45.00
+Net Pay:                  $180.00
+
+Rate of Pay:              $25.00
+Total Hours Worked:       55
+Straight Time:            35
+Over Time:                20
+Gross Pay:                $1625.00
+Tax:                      $325.00
+Net Pay:                  $1300.00
+
+Rate of Pay:              $20.00
+Total Hours Worked:       40
+Straight Time:            30
+Over Time:                10
+Gross Pay:                $900.00
+Tax:                      $180.00
+Net Pay:                  $720.00
+
+Rate of Pay:              $12.00
+Total Hours Worked:       50
+Straight Time:            35
+Over Time:                15
+Gross Pay:                $690.00
+Tax:                      $138.00
+Net Pay:                  $552.00
+
+Rate of Pay:              $15.50
+Total Hours Worked:       60
+Straight Time:            50
+Over Time:                10
+Gross Pay:                $1007.50
+Tax:                      $201.50
+Net Pay:                  $806.00
+
+Rate of Pay:              $20.50
+Total Hours Worked:       70
+Straight Time:            75
+Over Time:                0
+Gross Pay:                $1435.00
+Tax:                      $287.00
+Net Pay:                  $1148.00
+
