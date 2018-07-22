@@ -12,6 +12,8 @@
  * After the program is over, the result of the calculation of all inputed data
  * will be saved to the text file "output.txt" with all necessary information.
  */
+
+///NEW BRANCH
 package assignment_1;
 
 import java.io.PrintStream;
@@ -38,7 +40,7 @@ public class Assignment_1 {
         }//end while
     }//end main
 
-    
+  
     //printToFile neatly prints info to txt file using prinf method
     public static void printToFile(double rateOfPay, double totalHours,
             double straightTime, double overTime, double grossPay,
